@@ -2,4 +2,4 @@
 
 Desafío para puesto de Data Science Senior.
 
-[./Forecasting_LightGBM.ipynb](SOLUCION)
+[SOLUCION](/Forecasting_LightGBM.ipynb)
